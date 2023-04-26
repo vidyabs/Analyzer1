@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="my" ToolsVersion="17.0">
+  <Include Path="cppcorecheckclassrules.ruleset" Action="Default" />
+  <Include Path="cppcorecheckconcurrencyrules.ruleset" Action="Default" />
+  <Include Path="cppcorecheckconstrules.ruleset" Action="Default" />
+  <Include Path="cppcorecheckfuncrules.ruleset" Action="Default" />
+  <Include Path="cppcorecheckgslrules.ruleset" Action="Default" />
+  <Include Path="cppcorechecklifetimerules.ruleset" Action="Default" />
+  <Include Path="cppcorecheckuniquepointerrules.ruleset" Action="Default" />
+</RuleSet>
